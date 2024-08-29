@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 27ef1a4c54c19484c939a4d7e8ce1962
+guid: 23cd358e7061ec544a326563616376c1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,118 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: BackfarmercowboyAnimation_Frame_0
+  - name: SnakeOne_Frame_0
     originalName: 
-    pivot: {x: 0.53846157, y: -0.033333335}
+    pivot: {x: 0.71428573, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 27
+      width: 7
+      height: 14
+    spriteID: 0a3cb6a8293180141803b8eb53d731d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 27}
+  - name: SnakeOne_Frame_1
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.15384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 26
+      width: 7
+      height: 13
+    spriteID: 630368a349aa8a44299f6c3d15d8f122
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 26}
+  - name: SnakeOne_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 4
+      width: 8
+      height: 12
+    spriteID: 6acf8badd8e62f4479a2ca3a4b0b21af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 4}
+  - name: SnakeOne_Frame_3
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.15384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 47
+      width: 7
+      height: 13
+    spriteID: bc0646750e1716848b3b7327c743062e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 47}
+  - name: SnakeOne_Frame_4
+    originalName: 
+    pivot: {x: 0.71428573, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 4
+      width: 7
+      height: 14
+    spriteID: b608665f105666b46981f648f3c0967a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 4}
+  - name: SnakeOne_Frame_5
+    originalName: 
+    pivot: {x: 0.8571429, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 39
-      height: 60
-    spriteID: 24cbd98f667ba9040bda797369e55105
+      width: 7
+      height: 15
+    spriteID: 309dbcf99ca8dcd42931ad2d5eefec92
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,202 +241,73 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: BackfarmercowboyAnimation_Frame_1
-    originalName: 
-    pivot: {x: 0.51282054, y: -0.033333335}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 72
-      width: 39
-      height: 60
-    spriteID: b2ec868c8efac9045b28e822a7e1e6f8
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 72}
-  - name: BackfarmercowboyAnimation_Frame_2
-    originalName: 
-    pivot: {x: 0.53846157, y: -0.033333335}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 140
-      width: 39
-      height: 60
-    spriteID: 867c78f632eb71d4e8320a2739d64f53
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 140}
-  - name: BackfarmercowboyAnimation_Frame_3
-    originalName: 
-    pivot: {x: 0.5641026, y: -0.03448276}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 51
-      y: 140
-      width: 39
-      height: 58
-    spriteID: 83099c624309d1343b7990f872cc1eea
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 51, y: 140}
-  - name: BackfarmercowboyAnimation_Frame_4
-    originalName: 
-    pivot: {x: 0.53846157, y: -0.03448276}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 98
-      y: 4
-      width: 39
-      height: 58
-    spriteID: aeec2ab8c9fd541418e19e462e3ddae3
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 98, y: 4}
-  - name: BackfarmercowboyAnimation_Frame_5
-    originalName: 
-    pivot: {x: 0.4871795, y: -0.033333335}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 51
-      y: 4
-      width: 39
-      height: 60
-    spriteID: a3cdd489d6106c74bb404701221ebb51
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 51, y: 4}
-  - name: BackfarmercowboyAnimation_Frame_6
-    originalName: 
-    pivot: {x: 0.51282054, y: -0.033333335}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 51
-      y: 72
-      width: 39
-      height: 60
-    spriteID: 4681bb747e4a3ed47ad6d0ddce896c83
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 51, y: 72}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1139668061
-    name: BackfarmercowboyAnimation
+    guid: -729350378
+    name: SnakeOne
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: BackfarmercowboyAnimation_Frame_0
+    - name: SnakeOne_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 11
-        y: 2
-        width: 39
-        height: 60
-      spriteId: 24cbd98f667ba9040bda797369e55105
-    - name: BackfarmercowboyAnimation_Frame_1
+        x: 3
+        y: 1
+        width: 7
+        height: 14
+      spriteId: 0a3cb6a8293180141803b8eb53d731d1
+    - name: SnakeOne_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
-        x: 12
+        x: 4
         y: 2
-        width: 39
-        height: 60
-      spriteId: b2ec868c8efac9045b28e822a7e1e6f8
-    - name: BackfarmercowboyAnimation_Frame_2
+        width: 7
+        height: 13
+      spriteId: 630368a349aa8a44299f6c3d15d8f122
+    - name: SnakeOne_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
-        x: 11
-        y: 2
-        width: 39
-        height: 60
-      spriteId: 867c78f632eb71d4e8320a2739d64f53
-    - name: BackfarmercowboyAnimation_Frame_3
+        x: 4
+        y: 3
+        width: 8
+        height: 12
+      spriteId: 6acf8badd8e62f4479a2ca3a4b0b21af
+    - name: SnakeOne_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
-        x: 10
+        x: 4
         y: 2
-        width: 39
-        height: 58
-      spriteId: 83099c624309d1343b7990f872cc1eea
-    - name: BackfarmercowboyAnimation_Frame_4
+        width: 7
+        height: 13
+      spriteId: bc0646750e1716848b3b7327c743062e
+    - name: SnakeOne_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
-        x: 11
-        y: 2
-        width: 39
-        height: 58
-      spriteId: aeec2ab8c9fd541418e19e462e3ddae3
-    - name: BackfarmercowboyAnimation_Frame_5
+        x: 3
+        y: 1
+        width: 7
+        height: 14
+      spriteId: b608665f105666b46981f648f3c0967a
+    - name: SnakeOne_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
-        x: 13
-        y: 2
-        width: 39
-        height: 60
-      spriteId: a3cdd489d6106c74bb404701221ebb51
-    - name: BackfarmercowboyAnimation_Frame_6
-      frameIndex: 6
-      additiveSortOrder: 0
-      cellRect:
-        x: 12
-        y: 2
-        width: 39
-        height: 60
-      spriteId: 4681bb747e4a3ed47ad6d0ddce896c83
+        x: 2
+        y: 0
+        width: 7
+        height: 15
+      spriteId: 309dbcf99ca8dcd42931ad2d5eefec92
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 16, y: 16}
