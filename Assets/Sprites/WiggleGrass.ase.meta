@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5319163c2de4747429ced0dcc57561f5
+guid: e575eaae4f9da5142b412544fc010b58
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Backfarmercowboy
+  - name: WiggleGrass_Frame_0
     originalName: 
-    pivot: {x: 0.51282054, y: -0.050000004}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 39
-      height: 60
-    spriteID: 12216e7dccf079f4696b5d828844e904
+      width: 32
+      height: 32
+    spriteID: 28a268cbee6bb484fa44fb1d0290622c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,24 +141,111 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: WiggleGrass_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 44
+      width: 32
+      height: 32
+    spriteID: 0d7e56a30c2b2774f9a5c7925502c24c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 44}
+  - name: WiggleGrass_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 32
+      height: 32
+    spriteID: 4b1c7541f06888f43b324c66f2444ec6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 84}
+  - name: WiggleGrass_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 4
+      width: 32
+      height: 32
+    spriteID: 2436c60c27eadca45aaf0d6a4d3dcc8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 4}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 130600443
-    name: Backfarmercowboy
+    guid: -1407207957
+    name: WiggleGrass
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Backfarmercowboy
+    - name: WiggleGrass_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 12
-        y: 3
-        width: 39
-        height: 60
-      spriteId: 12216e7dccf079f4696b5d828844e904
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      spriteId: 28a268cbee6bb484fa44fb1d0290622c
+    - name: WiggleGrass_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      spriteId: 0d7e56a30c2b2774f9a5c7925502c24c
+    - name: WiggleGrass_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      spriteId: 4b1c7541f06888f43b324c66f2444ec6
+    - name: WiggleGrass_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      spriteId: 2436c60c27eadca45aaf0d6a4d3dcc8e
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -189,4 +276,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 32, y: 32}

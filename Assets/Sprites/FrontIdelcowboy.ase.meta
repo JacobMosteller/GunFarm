@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5319163c2de4747429ced0dcc57561f5
+guid: 877c1721120b8894f9ffca29df4051a2
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638605662772700182
+  platformSettingsDirtyTick: 638605662772695182
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Backfarmercowboy
+  - name: FrontIdelcowboy_Frame_0
     originalName: 
-    pivot: {x: 0.51282054, y: -0.050000004}
+    pivot: {x: 0.45454547, y: -0.050000004}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 39
+      width: 44
       height: 60
-    spriteID: 12216e7dccf079f4696b5d828844e904
+    spriteID: 4fd07e0d6d0716c46966d85a27ee3d3d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,24 +141,140 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: FrontIdelcowboy_Frame_1
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.050847456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 44
+      height: 59
+    spriteID: 2da283c9fb173074d83c07816280573b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+  - name: FrontIdelcowboy_Frame_2
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.051724136}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 4
+      width: 44
+      height: 58
+    spriteID: 51b61802728a1b44e9611246674f585f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 4}
+  - name: FrontIdelcowboy_Frame_3
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.051724136}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 70
+      width: 44
+      height: 58
+    spriteID: 4d31157a5f39bd04eb97aa263c2e2fba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 70}
+  - name: FrontIdelcowboy_Frame_4
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.050847456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 139
+      width: 44
+      height: 59
+    spriteID: 4da7b25a7303c6f4b89ef3c6bda540b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 139}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 130600443
-    name: Backfarmercowboy
+    guid: -804548478
+    name: FrontIdelcowboy
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Backfarmercowboy
+    - name: FrontIdelcowboy_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 12
         y: 3
-        width: 39
+        width: 44
         height: 60
-      spriteId: 12216e7dccf079f4696b5d828844e904
+      spriteId: 4fd07e0d6d0716c46966d85a27ee3d3d
+    - name: FrontIdelcowboy_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 44
+        height: 59
+      spriteId: 2da283c9fb173074d83c07816280573b
+    - name: FrontIdelcowboy_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 44
+        height: 58
+      spriteId: 51b61802728a1b44e9611246674f585f
+    - name: FrontIdelcowboy_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 44
+        height: 58
+      spriteId: 4d31157a5f39bd04eb97aa263c2e2fba
+    - name: FrontIdelcowboy_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 44
+        height: 59
+      spriteId: 4da7b25a7303c6f4b89ef3c6bda540b9
     linkedCells: []
     parentIndex: -1
   platformSettings:
