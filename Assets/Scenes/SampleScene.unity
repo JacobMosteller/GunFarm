@@ -2447,6 +2447,7 @@ MonoBehaviour:
   vertical: 0
   speed: 1
   rb: {fileID: 1412664348}
+  animator: {fileID: 1412664350}
 --- !u!95 &1412664350
 Animator:
   serializedVersion: 5
