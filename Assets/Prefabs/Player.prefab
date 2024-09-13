@@ -209,6 +209,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3185880212378819072}
   - component: {fileID: 5414737561227101793}
+  - component: {fileID: 4026172355792138411}
   m_Layer: 0
   m_Name: Gun
   m_TagString: Untagged
@@ -225,7 +226,7 @@ Transform:
   m_GameObject: {fileID: 8613674858935374344}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.344, y: 0.192, z: 0}
+  m_LocalPosition: {x: 0.34, y: 0.293, z: -0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -283,3 +284,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &4026172355792138411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8613674858935374344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9845c4cc6e87f51438c4b0b40629af7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  other: {fileID: 3185880212378819072}

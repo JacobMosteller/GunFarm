@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fbec12d3c4d640a4eba8f0de05ac37be
+guid: ba7ae228a1994604697daf7f33959ad1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638617810382639354
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Watergun
+  - name: MoneySprout3
     originalName: 
-    pivot: {x: 0.14532326, y: 0.33929667}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 24
+      width: 14
       height: 15
-    spriteID: 620a7f2cdfb53a0458f42898f0d320fd
+    spriteID: 809fb7b3a52788742a1b993207ce602b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,49 +144,25 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -593143147
-    name: Watergun
+    guid: -418368948
+    name: MoneySprout3
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Watergun
+    - name: MoneySprout3
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 5
-        y: 8
-        width: 24
+        x: 1
+        y: 0
+        width: 14
         height: 15
-      spriteId: 620a7f2cdfb53a0458f42898f0d320fd
+      spriteId: 809fb7b3a52788742a1b993207ce602b
     linkedCells: []
     parentIndex: -1
-  platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
+  platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 32, y: 32}
+  canvasSize: {x: 16, y: 16}
