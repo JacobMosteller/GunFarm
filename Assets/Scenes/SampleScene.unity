@@ -2456,6 +2456,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bee
       objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: b4cd862a324e8504d956ab9897afacec, type: 3}
+      propertyPath: m_SortingOrder
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: b4cd862a324e8504d956ab9897afacec, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2633,18 +2637,6 @@ PrefabInstance:
     - target: {fileID: 5750464921452570517, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6602245358694464217, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 6602245358694464217, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 6602245358694464217, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -90
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
