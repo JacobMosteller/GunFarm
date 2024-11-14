@@ -167,6 +167,16 @@ Transform:
   - {fileID: 1078530956}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &344541991 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8613674858935374344, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+  m_PrefabInstance: {fileID: 4518978406894975951}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &513882432 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 200412218381923651, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+  m_PrefabInstance: {fileID: 4518978406894975951}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -273,6 +283,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1896631592}
+--- !u!4 &878628912 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6602245358694464217, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+  m_PrefabInstance: {fileID: 4518978406894975951}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1078530955
 GameObject:
   m_ObjectHideFlags: 0
@@ -2285,6 +2300,11 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!4 &1746996796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9112749045991821895, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+  m_PrefabInstance: {fileID: 4518978406894975951}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1872970320
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2456,6 +2476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bee
       objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: b4cd862a324e8504d956ab9897afacec, type: 3}
+      propertyPath: m_SortingOrder
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: b4cd862a324e8504d956ab9897afacec, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2590,6 +2614,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1691884340074159832, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: pistol
+      value: 
+      objectReference: {fileID: 513882432}
+    - target: {fileID: 1691884340074159832, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: waterGun
+      value: 
+      objectReference: {fileID: 344541991}
+    - target: {fileID: 1691884340074159832, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: firePoint
+      value: 
+      objectReference: {fileID: 878628912}
+    - target: {fileID: 1691884340074159832, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: firePoint1
+      value: 
+      objectReference: {fileID: 1746996796}
+    - target: {fileID: 1691884340074159832, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: firePoint2
+      value: 
+      objectReference: {fileID: 878628912}
     - target: {fileID: 2318872818003444477, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
       propertyPath: m_Name
       value: Player
@@ -2634,17 +2678,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6602245358694464217, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
+    - target: {fileID: 5804900653941312471, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: m_Name
+      value: FirePoint2
       objectReference: {fileID: 0}
-    - target: {fileID: 6602245358694464217, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.7071068
+    - target: {fileID: 8613674858935374344, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6602245358694464217, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -90
+    - target: {fileID: 8877289947260288751, guid: 216d9343a40f29a479cdffca955a5dd7, type: 3}
+      propertyPath: m_Name
+      value: FirePoint1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
